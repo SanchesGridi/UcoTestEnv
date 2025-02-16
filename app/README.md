@@ -37,3 +37,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Setup Node via Node Version Manager
+
+```sh
+nvm use 22.13.1
+```
